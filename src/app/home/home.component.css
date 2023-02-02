@@ -1,0 +1,12 @@
+.filterCard{
+  position: relative;
+}
+.filterCard span{
+  position: absolute;
+  background-color: white;
+  top: -12px;
+}
+tr th{
+  background-color: darkgrey;
+  color: white;
+}
